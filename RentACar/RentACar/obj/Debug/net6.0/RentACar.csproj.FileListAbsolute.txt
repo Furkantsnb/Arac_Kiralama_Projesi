@@ -1,0 +1,15 @@
+C:\Users\furka\Desktop\c# projelerim\RentACar\RentACar\bin\Debug\net6.0\RentACar.exe
+C:\Users\furka\Desktop\c# projelerim\RentACar\RentACar\bin\Debug\net6.0\RentACar.deps.json
+C:\Users\furka\Desktop\c# projelerim\RentACar\RentACar\bin\Debug\net6.0\RentACar.runtimeconfig.json
+C:\Users\furka\Desktop\c# projelerim\RentACar\RentACar\bin\Debug\net6.0\RentACar.dll
+C:\Users\furka\Desktop\c# projelerim\RentACar\RentACar\bin\Debug\net6.0\RentACar.pdb
+C:\Users\furka\Desktop\c# projelerim\RentACar\RentACar\obj\Debug\net6.0\RentACar.csproj.AssemblyReference.cache
+C:\Users\furka\Desktop\c# projelerim\RentACar\RentACar\obj\Debug\net6.0\RentACar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\Desktop\c# projelerim\RentACar\RentACar\obj\Debug\net6.0\RentACar.AssemblyInfoInputs.cache
+C:\Users\furka\Desktop\c# projelerim\RentACar\RentACar\obj\Debug\net6.0\RentACar.AssemblyInfo.cs
+C:\Users\furka\Desktop\c# projelerim\RentACar\RentACar\obj\Debug\net6.0\RentACar.csproj.CoreCompileInputs.cache
+C:\Users\furka\Desktop\c# projelerim\RentACar\RentACar\obj\Debug\net6.0\RentACar.dll
+C:\Users\furka\Desktop\c# projelerim\RentACar\RentACar\obj\Debug\net6.0\refint\RentACar.dll
+C:\Users\furka\Desktop\c# projelerim\RentACar\RentACar\obj\Debug\net6.0\RentACar.pdb
+C:\Users\furka\Desktop\c# projelerim\RentACar\RentACar\obj\Debug\net6.0\RentACar.genruntimeconfig.cache
+C:\Users\furka\Desktop\c# projelerim\RentACar\RentACar\obj\Debug\net6.0\ref\RentACar.dll
